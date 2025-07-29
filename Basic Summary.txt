@@ -1,0 +1,27 @@
+@ Audio Reactive LED Circuit Project
+
+This repository contains a simple but effective circuits that allow an LED to blink based on music/audio signal from a speaker.
+Generally, depends upon the Low Freq. generating form Amplifier's for the respective Driver Unit.
+
+Components Used-
+a)Resistor
+b)Diode
+c)LED (any colour)
+
+Note-
+LED show now effect under-
+1.High Freq. 
+2.Mid Freq.
+3.Soft Low Freq. or Soft Base Freq.
+
+
+Passive LED Blinker Circuit
+
+a)No external power needed.
+
+b)Blinks on bass hits or audio peaks.
+
+c)Made using: LED, Diode, Resistor.
+
+d)Very minimal speaker load (but some loss can occur).
+Nigeligible losses can't be detected until measured, minimal or very low Losses in Audio/Details.
