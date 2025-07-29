@@ -1,0 +1,26 @@
+1) Initial or Experimental Measurements-
+| Component          | Value                                | Notes                                   |
+| ------------------ | ------------------------------------ | --------------------------------------- |
+| **Resistor (R1)**  | 470Ω                                 | Limits current to LED                   |
+| **Diode (D1)**     | 1N4148 or 1N4007                     | Protects LED from reverse polarity      |
+| **LED**            | Any standard 2V LED (Red/Blue/Green) | Try ultra-bright ones for better visual |
+| **Speaker Source** | 3W–20W Speaker Output                | Comes from speaker wire                 |
+
+2) Alternate Measurements-
+
+| Component         | Alternate Value           | Impact                                                                |
+| ----------------- | ------------------------- | --------------------------------------------------------------------- |
+| **Resistor (R1)** | 330Ω – 1kΩ                | Lower = brighter LED but risks LED damage, Higher = dimmer LED, safer |
+| **Diode (D1)**    | 1N5819 (Schottky), 1N4001 | Works similarly, just slower than 1N4148                              |
+| **LED**           | 3V white LED or RGB       | Just ensure resistor is adjusted accordingly                          |
+| **Speaker Power** | Can work even from 0.5W   | But the LED may blink faintly                                         |
+
+
+
+Using of Resistor of much lower value may increase load and may effect the overall Audio quality.
+Try Experimenting with different values in order to achive better reults according to your Amplifier output and taking Speaker 
+Rating as refrence
+here my system out put(15w-25w)
+Speaker of (20w) and of 4 ohm
+
+
